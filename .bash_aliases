@@ -15,3 +15,6 @@ alias exp="/mnt/c/Windows/explorer.exe"
 alias nv="nvim"
 alias ipy="ipython3"
 alias activate="source .venv/bin/activate" # mirror to "deactivate"
+
+# File copying
+alias prettierrccp="cp ~/dotfiles/.prettierrc ."

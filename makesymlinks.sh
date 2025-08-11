@@ -8,6 +8,7 @@
 dir=~/dotfiles
 olddir=~/dotfiles_old                         # backup directory
 files=".bashrc .bash_aliases .inputrc .vimrc" # list of files/folders to symlink in homedir
+# TODO: Add neovim configs, all other dotfiles, programs to install
 
 # create dotfiles_old in homedir
 echo "Creating $olddir for backup of any existing dotfiles in ~"
