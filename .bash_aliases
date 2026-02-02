@@ -17,7 +17,7 @@ alias neoconfig="nv ~/.config/nvim/"
 alias exp="/mnt/c/Windows/explorer.exe"
 alias nv="nvim"
 alias nvc="nvim --clean"
-alias ipy="ipython3"
+alias ipy="ipython"
 alias activate="source .venv/bin/activate" # mirror to "deactivate"
 
 # File copying
