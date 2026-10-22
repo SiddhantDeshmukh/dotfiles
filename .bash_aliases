@@ -11,10 +11,12 @@ alias fd="fdfind"
 
 # Pathing
 alias cdwin="cd /mnt/c/Users/$winuser/"
+alias cdone='cd "/mnt/c/Users/$winuser/Artificial Intelligence Research/companydrive - Documents/"'
 alias neoconfig="nv ~/.config/nvim/"
 
 # Programs
-alias exp="/mnt/c/Windows/explorer.exe"
+# alias exp="/mnt/c/Windows/explorer.exe"
+alias exp="/mnt/c/Users/$winuser/AppData/Local/Voidstar/FilePilot/FPilot.exe"
 alias nv="nvim"
 alias nvc="nvim --clean"
 alias ipy="ipython"
